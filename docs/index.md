@@ -25,13 +25,11 @@ Two Six Technologies, IBM, MITRE, University of Chicago, and Google Research are
 collaboratively generating platforms, libraries, datasets, and training materials to
 holistically evaluate the robustness of AI models and defenses to adversarial attacks.
 
+![research team logos][logos]
 
-# Team — Holistic Evaluation of GARD-produced Defenses
+# Team
+## Holistic Evaluation of GARD-produced Defenses
 
-![University of Chicago Logo][uchicago]
-**TODO: @davidslater is there a blurb for UChicago?**
-
-![Armory Logo][armory-logo]
 
 [Armory][armory] is a platform for running repeatable,
 scalable, robust evaluations of adversarial defenses. Configuration files are used to
@@ -40,7 +38,6 @@ scenarios, and evaluation scripts can be pulled from external repositories or fr
 baselines within this project. Armory strongly leverages ART library components for
 attacks and model integration.
 
-![Adversarial Robustness Toolbox Logo][art-logo]
 
 [Adversarial Robustness Toolbox (ART)][art] is a Python library for Machine Learning Security.
 ART provides tools that enable developers and researchers to defend and evaluate Machine
@@ -76,8 +73,7 @@ defenses, they can perform a thorough evaluation.
 
 
 [uchicago]: images/uchicago.png
-[armory-logo]: images/armory.png
-[art-logo]: images/art.png
+[logos]: images/montage800.png
 [patch]: images/patch.png
 [armory]: https://github.com/twosixlabs/armory
 [art]:  https://github.com/Trusted-AI/adversarial-robustness-toolbox
