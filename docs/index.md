@@ -79,3 +79,26 @@ defenses, they can perform a thorough evaluation.
 [art]:  https://github.com/Trusted-AI/adversarial-robustness-toolbox
 [apricot]: https://apricot.mitre.org/
 [google]: https://github.com/google-research/selfstudy-adversarial-robustness
+
+# Gratuitous Code Sample
+
+Suppose you wanted some code in backticks:
+```python
+def validate_config(config: dict) -> None:
+    if not isinstance(config, dict):
+        raise TypeError(f"config is a {type(config)}, not a dict")
+    keys = (
+        "dataset_dir",
+        "local_git_dir",
+        "saved_model_dir",
+        "output_dir",
+        "tmp_dir",
+        "verify_ssl",
+    )
+    for key in keys:
+        if key not in config:
+            raise KeyError(
+                f"config is missing key {key}. config may be out of date. Please run 'armory configure'"
+            )
+```
+That would be a code block.
