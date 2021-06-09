@@ -1,5 +1,3 @@
-# GARD — Guaranteeing AI Robustness Against Deception
-
 The growing sophistication and ubiquity of machine learning (ML) components in advanced
 systems dramatically expands capabilities, but also increases the potential for new
 vulnerabilities. Current research on adversarial AI focuses on approaches where
@@ -73,8 +71,8 @@ defenses, they can perform a thorough evaluation.
 
 
 [uchicago]: images/uchicago.png
-[logos]: images/montage800.png
-[patch]: images/patch.png
+[logos]: images/montage1000.png
+[patch]: images/patch600.png
 [armory]: https://github.com/twosixlabs/armory
 [art]:  https://github.com/Trusted-AI/adversarial-robustness-toolbox
 [apricot]: https://apricot.mitre.org/
