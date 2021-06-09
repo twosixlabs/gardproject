@@ -86,3 +86,4 @@ class LinfAttack(common.framework.Attack):
 [art]:  https://github.com/Trusted-AI/adversarial-robustness-toolbox
 [apricot]: https://apricot.mitre.org/
 [google]: https://github.com/google-research/selfstudy-adversarial-robustness
+
