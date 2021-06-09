@@ -1,3 +1,5 @@
+# GARD Project
+
 The growing sophistication and ubiquity of machine learning (ML) components in advanced
 systems dramatically expands capabilities, but also increases the potential for new
 vulnerabilities. Current research on adversarial AI focuses on approaches where
