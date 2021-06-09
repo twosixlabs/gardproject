@@ -1,5 +1,6 @@
 #theme: jekyll-theme-slate
-remote_theme: chrisrhymes/bulma-clean-theme
+#remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: y7kim/agency-jekyll-theme
 title: GARD Project
 description: Guaranteeing AI Robustness Against Deception
 show_downloads: false
