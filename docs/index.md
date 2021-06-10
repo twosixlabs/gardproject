@@ -1,6 +1,11 @@
-# Holistic Evaluation of Adversarial Defenses
+---
+layout: page
+title: Holistic Evaluation of Adversarial Defenses
+subtitle: GARD Project
+hero_image: images/junk-hero.jpg
+---
 
-## Team
+# Team
 ![research team logos][logos]
 
 Two Six Technologies, IBM, MITRE, University of Chicago, and Google Research are
@@ -75,7 +80,6 @@ class LinfAttack(common.framework.Attack):
          return x + np.sign(np.random.normal(size=x.shape))*self.task.threshold
          # Can you do better than adding random noise?
 ```
-
 
 [logos]: images/montage3.png
 [armory-logo]: images/armory.png
