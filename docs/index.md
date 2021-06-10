@@ -1,4 +1,9 @@
-# GARD — Guaranteeing AI Robustness Against Deception
+---
+layout: page
+title: GARD project
+subtitle: Guaranteeing AI Robustness Against Deception
+hero_image: images/junk-hero.png
+---
 
 The growing sophistication and ubiquity of machine learning (ML) components in advanced
 systems dramatically expands capabilities, but also increases the potential for new
