@@ -1,6 +1,12 @@
 - name: Team
   link: /#Team
+- name: GARD
+  link: /#GARD
+- name: Armory
+  link: /#Armory
+- name: ART
+  link: /#ART
 - name: APRICOT
-  link: /#apricot
-- name: blog
-  link: /blog/
+  link: /#Apricot
+- name: Self-Study
+  link: /#Self-Study
