@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Holistic Evaluation of Adversarial Defenses
-subtitle: GARD Project
 hero_image: images/junk-hero.jpg
 ---
 
