@@ -2,7 +2,7 @@
 layout: page
 title: GARD project
 subtitle: Guaranteeing AI Robustness Against Deception
-hero_image: images/junk-hero.png
+hero_image: images/junk-hero.jpg
 ---
 
 # Team
