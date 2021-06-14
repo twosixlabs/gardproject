@@ -14,7 +14,7 @@ of AI models and defenses to adversarial attacks.
 # GARD
 ## Guaranteeing AI Robustness to Deception
 
-The DARPA GARD program seeks to establish theoretical ML system foundations to identify
+The [DARPA GARD program][gard] seeks to establish theoretical ML system foundations to identify
 system vulnerabilities, characterize properties that will enhance system robustness, and
 encourage the creation of effective defenses. Currently, ML defenses tend to be highly
 specific and are effective only against particular attacks. GARD seeks to develop
@@ -52,7 +52,7 @@ etc.), all data types (images, tables, audio, video, etc.) and machine learning 
 
 ![APRICOT Patch Example][patch]
 
-[APRICOT (Adversarial Patches Rearranged in COnText)][apricot] is a publicly released benchmark
+[APRICOT (Adversarial Patches Rearranged In COnText)][apricot] is a publicly released benchmark
 dataset created to enable reproducible research on the real-world effectiveness of physical
 adversarial patch attacks on object detection systems.
 This is an example of the types of datasets and scenarios that MITRE is developing to
@@ -83,6 +83,7 @@ class LinfAttack(common.framework.Attack):
 [armory-logo]: images/armory.png
 [art-logo]: images/art.png
 [patch]: images/patch600.png
+[gard]: https://www.darpa.mil/program/guaranteeing-ai-robustness-against-deception
 [armory]: https://github.com/twosixlabs/armory
 [art]:  https://github.com/Trusted-AI/adversarial-robustness-toolbox
 [apricot]: https://apricot.mitre.org/
