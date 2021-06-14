@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Holistic Evaluation of Adversarial Defenses
-hero_image: images/junk-hero.jpg
 ---
 
 # Team
@@ -54,7 +53,7 @@ etc.), all data types (images, tables, audio, video, etc.) and machine learning 
 ![APRICOT Patch Example][patch]
 
 [APRICOT (Adversarial Patches Rearranged in COnText)][apricot] is a publicly released benchmark
-dataset created to enable reproducible research on the real-world effectiveness of physical 
+dataset created to enable reproducible research on the real-world effectiveness of physical
 adversarial patch attacks on object detection systems.
 This is an example of the types of datasets and scenarios that MITRE is developing to
 robusly test relevant models and defenses.
