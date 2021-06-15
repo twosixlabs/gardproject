@@ -79,7 +79,7 @@ class LinfAttack(common.framework.Attack):
          # Can you do better than adding random noise?
 ```
 
-[logos]: images/montage3.png
+[logos]: images/montage-new.png
 [armory-logo]: images/armory.png
 [art-logo]: images/art.png
 [patch]: images/patch600.png
