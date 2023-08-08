@@ -1,4 +1,6 @@
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: pages-themes/cayman@v0.2.0
 title: GARD Project
 description: Guaranteeing AI Robustness Against Deception
 show_downloads: false
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
